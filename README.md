@@ -11,6 +11,9 @@ A team profile generator made using node.js :)
 
 ![nodenode](https://user-images.githubusercontent.com/77229281/127581043-e4414e4a-3e3d-4270-8d61-a5f505388669.png)
 
+![jest](https://user-images.githubusercontent.com/77229281/127587806-3f76c34f-cbbf-49b1-8819-116514adcfa5.png)
+
+
 ## Installation
 
 ```bash
