@@ -3,6 +3,12 @@ const fs = require("fs");
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
+const path = require("path");
+
+const DIST_DIR = path.resolve(__dirname, "dist");
+const outputPath = path.join(DIST_DIR, "render.html");
+
+const render = require("./dist/render");
 
 const employees = [];
 
