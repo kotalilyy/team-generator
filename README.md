@@ -4,13 +4,11 @@
 
 ![nodejs](https://user-images.githubusercontent.com/77229281/127579558-eac67862-88c5-4a33-ade8-f95803fb8d88.png)
 
-
 ## Description 
 
 A team profile generator made using node.js 
 
 <img width="720" alt="renderedhtml" src="https://user-images.githubusercontent.com/77229281/128448663-d242277e-8a35-43a0-8c53-2c92846b2e54.png">
-
 
 ## Installation
 
@@ -32,6 +30,8 @@ node index.js
 ## Tests
 
 Application uses [Jest](https://jestjs.io/) for testing. 
+
+<img width="871" alt="jesttests" src="https://user-images.githubusercontent.com/77229281/128469940-dd9d92a8-3386-47f8-8170-fe210dab7f98.png">
 
 ## Contributions
 
