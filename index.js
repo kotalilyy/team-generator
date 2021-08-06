@@ -1,14 +1,13 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const Manager = require("./lib/Manager");
-const Engineer = require("./lib/Engineer");
-const Intern = require("./lib/Intern");
 const path = require("path");
+const Manager = require("./controllers/Manager");
+const Engineer = require("./controllers/Engineer");
+const Intern = require("./controllers/Intern");
+const render = require("./utils/htmlRenderer");
 
 const DIST_DIR = path.resolve(__dirname, "dist");
-const outputPath = path.join(DIST_DIR, "render.html");
-
-const render = require("./dist/render");
+const outputPath = path.join(DIST_DIR, "engineers.html");
 
 const employees = [];
 
