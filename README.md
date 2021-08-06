@@ -9,6 +9,9 @@
 
 A team profile generator made using node.js 
 
+<img width="720" alt="renderedhtml" src="https://user-images.githubusercontent.com/77229281/128448663-d242277e-8a35-43a0-8c53-2c92846b2e54.png">
+
+
 ## Installation
 
 ```bash
