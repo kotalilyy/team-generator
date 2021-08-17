@@ -1,27 +1,16 @@
-# team-profile-gen
+# team-generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-![nodejs](https://user-images.githubusercontent.com/77229281/127579558-eac67862-88c5-4a33-ade8-f95803fb8d88.png)
+<img width="504" alt="teampro gen" src="https://user-images.githubusercontent.com/77229281/129712406-63947798-078b-45b9-8847-53c1053f0222.png">
 
 ## Description 
 
-A team profile generator made using node.js 
+A team profile generator.
 
-<img width="720" alt="renderedhtml" src="https://user-images.githubusercontent.com/77229281/128448663-d242277e-8a35-43a0-8c53-2c92846b2e54.png">
-
-## Video Walkthrough: 
-
-https://drive.google.com/file/d/1boqYw2RzbZKqP1mSICyyajxGiPGaHVpL/view
-
-## Installation
-
-```bash
-npm install
-```
 ## Usage
 
-To run this applcation
+To invoke this application type this in the command line:
 
 ```bash
 node index.js
@@ -34,8 +23,6 @@ node index.js
 ## Tests
 
 Application uses [Jest](https://jestjs.io/) for testing. 
-
-<img width="871" alt="jesttests" src="https://user-images.githubusercontent.com/77229281/128469940-dd9d92a8-3386-47f8-8170-fe210dab7f98.png">
 
 ## Contributions
 
