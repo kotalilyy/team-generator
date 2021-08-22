@@ -2,8 +2,6 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-<img width="504" alt="teampro gen" src="https://user-images.githubusercontent.com/77229281/129712406-63947798-078b-45b9-8847-53c1053f0222.png">
-
 ## Description 
 
 A team profile generator.
